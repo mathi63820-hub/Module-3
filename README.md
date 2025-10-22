@@ -6,9 +6,12 @@ To write a Python program that calculates the sum of all elements in a list.
 Define a list of numbers. Use Python’s built-in sum() function to calculate the total. Print the result.
 
 ## 🧾 Program
-numbers = [10, 20, 30, 40, 50] total = sum(numbers) print("Sum of the list items is:", total)
-
-Output
+```
+numbers = [10, 20, 30, 40, 50] 
+total = sum(numbers)
+print("Sum of the list items is:", total)
+```
+## Output
 Screenshot 2025-10-20 163747
 Result
 Thus To write a Python program that calculates the sum of all elements in a list has been executed sucessfully.
